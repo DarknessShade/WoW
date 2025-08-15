@@ -1,0 +1,49 @@
+name: 'WARP_PHP'
+
+on:
+  push:
+    branches: 'main'
+    paths:
+      - '**/warpauto.*'
+      - 'subwarp/warp'
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        shell: bash -e {0}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: 'recursive' 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+
+      - name: Execute PHP script
+        run: php warpauto.php || exit 1
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Commit changes with timestamp
+        run: |
+          git add -A
+          git diff --cached --quiet || git commit -m "🗽𓄂𓆃 Auto update $(TZ='Asia/Tehran' date '+%H:%M:%S')"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
