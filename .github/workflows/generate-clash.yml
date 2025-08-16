@@ -62,7 +62,7 @@ jobs:
           if git status --porcelain | grep -q "clash-wg.yml" || git status --porcelain; then
             echo "Changes detected. Committing and pushing."
             git add clash-wg.yml
-            git commit -m "Auto: Update clash-wg configurations at: $(TZ='Asia/Tehran' date '+%H:%M:%S')" -m "Wireguard private key, addresses, reserved, and all IPs have been renewed" --author="darknessm427 <171773043+darknessm427@users.noreply.github.com>"
+            git commit -m "Auto: Update clash-wg configurations at: $(TZ='Asia/Tehran' date '+%H:%M:%S')" -m "Wireguard private key, addresses, reserved, and all IPs have been renewed" --author="darknessshade <226770020+DarknessShade@users.noreply.github.com>"
             git push
           else
             echo "No changes detected in config files."
