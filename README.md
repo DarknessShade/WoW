@@ -11,7 +11,7 @@
 **1. Warp on Warp**
 
 ```elixir
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/subwarp/warp
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/subwarp/warp
 ```  
 
 <br/>
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/subwarp/warp
 **2. Warp Auto**
 
 ```POV-Ray SDL
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/warpauto.json
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/warpauto.json
 ```  
 
 <br/> 
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/warpauto.json
 **3. Warp Plus**
 
 ```elixir
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/warp2.json
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/warp2.json
 ```  
 
 <br/> 
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/warp2.json
 **4. Warp for hiddify, singbox format**
 
 ```mupad
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/sing-box-hiddify.json
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/sing-box-hiddify.json
 ```
 
 ![rainbow]
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/sing-box-hidd
 **5. Warp for SingBox**
 
 ```elixir
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/sing-box.json
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/sing-box.json
 ```  
 
 ![rainbow]
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/sing-box.json
 **6. Warp on Warp for xray core clients**
 
 ```yaml
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/Xray-WoW.json
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/Xray-WoW.json
 ```
 
 ![rainbow]
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/Xray-WoW.json
 **7. warp with Amenzia parameters for Clash core clients**
 
 ```yaml
-https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/clash-wg.yml
+https://raw.githubusercontent.com/darknessshade/WoW/refs/heads/main/clash-wg.yml
 ```  
 
 ![rainbow]
