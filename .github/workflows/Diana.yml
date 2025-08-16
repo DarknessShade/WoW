@@ -46,14 +46,14 @@ jobs:
 
       - name: Commit and push if changes are detected
         run: |
-          git config --local user.name "DarknessShade"
-          git config --local user.email "171773043+DarknessShade@users.noreply.github.com"
+          git config --local user.name "darknessshade"
+          git config --local user.email "226770020+DarknessShade@users.noreply.github.com"
           git add warp2.json Bestip2.txt
           # Check if there are changes to commit
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "🗽𓄂𓆃 Auto update $(TZ='Asia/Tehran' date '+%H:%M:%S')" \
                        -m "Warp private key, addresses, reserved and all IP's have been renewed"
-            git -c author.name="DarknessShade" -c author.email="171773043+darknessm427@users.noreply.github.com" \
+            git -c author.name="DarknessShade" -c author.email="226770020+DarknessShade@users.noreply.github.com" \
                 -c committer.name="NET Sentinel Bot" -c committer.email="224584266+NetSentinel-Bot@users.noreply.github.com" \
                 commit --amend --no-edit
             git push || exit 1
