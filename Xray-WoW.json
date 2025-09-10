@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.222:7152",
+              "endpoint": "188.114.96.85:903",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            236,
-            31,
-            103
+            247,
+            109,
+            14
           ],
-          "secretKey": "qDxeJ3ccW1Cx+YuUip/haKmoB/bYdXhpiQpwBGX1Kn0="
+          "secretKey": "gHOQuWNNDTrNfyj2UI2WuqG3piPgjD9HwjO8btgFm0Y="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.192.141:7559",
+              "endpoint": "162.159.192.105:987",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            93,
-            122,
-            222
+            252,
+            206,
+            143
           ],
-          "secretKey": "0DCR7kHaerCNYtLJcMW8im4ygltTAtNCvHk2zJdafUs=",
+          "secretKey": "CO1k8bC6Q5i66ZDUnMEYSu6cbR7su40qrfD0DyEPnEQ=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.222:7152",
+              "endpoint": "188.114.96.85:903",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            236,
-            31,
-            103
+            247,
+            109,
+            14
           ],
-          "secretKey": "qDxeJ3ccW1Cx+YuUip/haKmoB/bYdXhpiQpwBGX1Kn0=",
+          "secretKey": "gHOQuWNNDTrNfyj2UI2WuqG3piPgjD9HwjO8btgFm0Y=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
