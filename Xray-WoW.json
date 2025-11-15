@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.97.74:8886",
+              "endpoint": "188.114.98.20:878",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            97,
-            26,
-            111
+            241,
+            44,
+            12
           ],
-          "secretKey": "oBgzF+jlJHWmreIhmzS/gFqhcTW1uxsQ00sjWv8MakY="
+          "secretKey": "IJ4deM7QcGFAdTaZT8cYpEo57tqWgnrZ4MHH5TmEhGc="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.10:1070",
+              "endpoint": "188.114.99.210:1070",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            135,
-            79,
-            223
+            83,
+            208,
+            212
           ],
-          "secretKey": "UHp6PgZB9GJ/KtZtKvF49R3SGWlT0K1fp+jj+hO6TFw=",
+          "secretKey": "AH1MIduDQrwFmZXZlFcWqXTvQ2Ck4Pez9KbrDstD41A=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.97.74:8886",
+              "endpoint": "188.114.98.20:878",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            97,
-            26,
-            111
+            241,
+            44,
+            12
           ],
-          "secretKey": "oBgzF+jlJHWmreIhmzS/gFqhcTW1uxsQ00sjWv8MakY=",
+          "secretKey": "IJ4deM7QcGFAdTaZT8cYpEo57tqWgnrZ4MHH5TmEhGc=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
