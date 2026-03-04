@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.138:1018",
+              "endpoint": "188.114.97.161:3138",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            183,
-            250,
-            205
+            224,
+            235,
+            105
           ],
-          "secretKey": "UDE9XVJMnTKuSiDpCrdZvV+rbLXVsd3XAK82hIdgz30="
+          "secretKey": "mGdWPqb2pkl1GVpJ/As4WNdfy3B/Mii7+HIgJGt5smk="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.195.82:928",
+              "endpoint": "188.114.99.203:8742",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            147,
+            254,
             24,
-            185
+            181
           ],
-          "secretKey": "YK2lHEKPX+hvnFNSU9MU8xDYUoCy8Cpzf2jv8BmvCHg=",
+          "secretKey": "4PQ32AseVuxdI+nBkVhM5FgtVZhlht61wklr9wXG+FY=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.138:1018",
+              "endpoint": "188.114.97.161:3138",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            183,
-            250,
-            205
+            224,
+            235,
+            105
           ],
-          "secretKey": "UDE9XVJMnTKuSiDpCrdZvV+rbLXVsd3XAK82hIdgz30=",
+          "secretKey": "mGdWPqb2pkl1GVpJ/As4WNdfy3B/Mii7+HIgJGt5smk=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
