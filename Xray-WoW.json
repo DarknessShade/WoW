@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.195.9:946",
+              "endpoint": "188.114.99.87:891",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            251,
-            56,
-            31
+            4,
+            178,
+            0
           ],
-          "secretKey": "wJOkbyfcgwdORuD7LFbkkN+yC/DXF+Mig9e0oZfMr1Y="
+          "secretKey": "SMiJ5cc6g0Vz8xGYYd9weM9TLNPhzkOy61LQ6abJO3M="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.192.215:942",
+              "endpoint": "162.159.192.4:859",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            169,
-            231,
-            230
+            43,
+            246,
+            92
           ],
-          "secretKey": "gPoxrnGgqcwMaBZaO1c6uFzwGqLkkznHNBuw3ZEN3VY=",
+          "secretKey": "oF7gG1CiBi1sqEEgG+LH/Zt7rzfTQCBRBiWc2Z9+6HE=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.195.9:946",
+              "endpoint": "188.114.99.87:891",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            251,
-            56,
-            31
+            4,
+            178,
+            0
           ],
-          "secretKey": "wJOkbyfcgwdORuD7LFbkkN+yC/DXF+Mig9e0oZfMr1Y=",
+          "secretKey": "SMiJ5cc6g0Vz8xGYYd9weM9TLNPhzkOy61LQ6abJO3M=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
