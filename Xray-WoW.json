@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.82:864",
+              "endpoint": "188.114.97.36:988",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            244,
-            36,
-            218
+            68,
+            157,
+            26
           ],
-          "secretKey": "8Is0EaCv9UxlOfKgSXMSKvXLDsp1b2bJ/9YGaRlx3Xg="
+          "secretKey": "CJjzgLIMaxOJ2lWzT9A76mphD6cVQQyriwssCYE3WFA="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.142:934",
+              "endpoint": "188.114.96.255:880",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            227,
-            167,
-            236
+            235,
+            164,
+            4
           ],
-          "secretKey": "WCNhljADIhjG+jNfJxeEwbJO8FSDseu9IxXoDhaXQEE=",
+          "secretKey": "oNcOGGWCG8C0zp6fggasMzMepYISu87i0fmIwz9OeW8=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.82:864",
+              "endpoint": "188.114.97.36:988",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            244,
-            36,
-            218
+            68,
+            157,
+            26
           ],
-          "secretKey": "8Is0EaCv9UxlOfKgSXMSKvXLDsp1b2bJ/9YGaRlx3Xg=",
+          "secretKey": "CJjzgLIMaxOJ2lWzT9A76mphD6cVQQyriwssCYE3WFA=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
