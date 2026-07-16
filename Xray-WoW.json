@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.192.71:890",
+              "endpoint": "188.114.97.168:4500",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            145,
-            178,
-            112
+            219,
+            99,
+            107
           ],
-          "secretKey": "YDrLV6xcadpEZcHohO4pXpBeSe2e2BFHlfr9GI86NXU="
+          "secretKey": "cFGtoztZvkQ51b938t/HaimNMwujemKLMArHuCwumGM="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.97.198:5956",
+              "endpoint": "188.114.96.132:3138",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            177,
             143,
-            164
+            230,
+            144
           ],
-          "secretKey": "yKop0E/7FSSiEGxkHOtYCr0EuWKpR8ouWBucQDUdNm4=",
+          "secretKey": "SIa0fBfOcaAT9x5yM54hBIFrao6kqYyRiRK+nC83f3k=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "162.159.192.71:890",
+              "endpoint": "188.114.97.168:4500",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            145,
-            178,
-            112
+            219,
+            99,
+            107
           ],
-          "secretKey": "YDrLV6xcadpEZcHohO4pXpBeSe2e2BFHlfr9GI86NXU=",
+          "secretKey": "cFGtoztZvkQ51b938t/HaimNMwujemKLMArHuCwumGM=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
