@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.96.25:7156",
+              "endpoint": "188.114.96.4:1387",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            5,
-            242,
-            68
+            182,
+            59,
+            228
           ],
-          "secretKey": "aIWRf7IQKRQimz8WSlUDw6lrk0yagR0DFohg4feBUU4="
+          "secretKey": "0AgIS6R8MR+UjBcJuR+BWHTHvYrEADByEruQOElVXF4="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.96.170:3476",
+              "endpoint": "188.114.97.31:1843",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            123,
-            239,
-            165
+            145,
+            196,
+            220
           ],
-          "secretKey": "GENqNcLWiFsILOOpVSe7duz6vluYdqXvTJDYupCQ01s=",
+          "secretKey": "UB7Dv/v2THnn8DnXWwHfINguDBlOOw8ZlunSg/WW0UE=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.96.25:7156",
+              "endpoint": "188.114.96.4:1387",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            5,
-            242,
-            68
+            182,
+            59,
+            228
           ],
-          "secretKey": "aIWRf7IQKRQimz8WSlUDw6lrk0yagR0DFohg4feBUU4=",
+          "secretKey": "0AgIS6R8MR+UjBcJuR+BWHTHvYrEADByEruQOElVXF4=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
