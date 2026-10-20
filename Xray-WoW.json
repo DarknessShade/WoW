@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.9:8886",
+              "endpoint": "188.114.99.170:987",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            26,
-            4,
-            243
+            255,
+            63,
+            255
           ],
-          "secretKey": "oOfeoYxvagM7p/mAs4nx0YgI60C6YDlR2Sr/n23z3mE="
+          "secretKey": "8CYkNVkZR27p1s89RidsErMefeDgrLAS2i1gffNj3mU="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.97.57:939",
+              "endpoint": "188.114.96.133:8319",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            217,
-            105,
-            44
+            221,
+            27,
+            29
           ],
-          "secretKey": "2H/gJLztf3JHSUfOBmdoHH3rBnAhiqL20tTTkgKsTlY=",
+          "secretKey": "6Gc4BHg06DrcRDcBjhnFd8Cy5irWEma6Npl/DRthHUs=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.9:8886",
+              "endpoint": "188.114.99.170:987",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            26,
-            4,
-            243
+            255,
+            63,
+            255
           ],
-          "secretKey": "oOfeoYxvagM7p/mAs4nx0YgI60C6YDlR2Sr/n23z3mE=",
+          "secretKey": "8CYkNVkZR27p1s89RidsErMefeDgrLAS2i1gffNj3mU=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
