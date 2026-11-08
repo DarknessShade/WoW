@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.215:946",
+              "endpoint": "162.159.192.157:987",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            183,
+            48,
             110,
-            51
+            202
           ],
-          "secretKey": "6FGX9SeJijGAmYyH/rHHfloRuRMOFEMn5oBG6yUOJ1U="
+          "secretKey": "sKu7haxZ7WyViCeGY/ae3xi5RXLVLzZ+CUWZNIN9v3Q="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.169:1074",
+              "endpoint": "188.114.98.250:2408",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            83,
-            205,
-            135
+            231,
+            198,
+            46
           ],
-          "secretKey": "yEPqUp+t4MmY0bvht+cpzKfCniXV0gcOPecLHhsg+XI=",
+          "secretKey": "WGHn8Xv7JoATGmL31OE5zJLU2okua61ut1jFH0scT1w=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.215:946",
+              "endpoint": "162.159.192.157:987",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            183,
+            48,
             110,
-            51
+            202
           ],
-          "secretKey": "6FGX9SeJijGAmYyH/rHHfloRuRMOFEMn5oBG6yUOJ1U=",
+          "secretKey": "sKu7haxZ7WyViCeGY/ae3xi5RXLVLzZ+CUWZNIN9v3Q=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
