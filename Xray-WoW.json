@@ -73,17 +73,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.98:1018",
+              "endpoint": "188.114.97.44:7152",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            149,
-            181,
-            31
+            10,
+            52,
+            38
           ],
-          "secretKey": "0OD7vQrrVMH1NtSTpdYd2/0S9/z3z4BO7L9JLfBLxEk="
+          "secretKey": "QI27Q95fHzHSPYYukZpSj/2UOzejymrQ9rayuny2A1w="
         },
         "tag": "chain",
         "streamSettings": {
@@ -102,17 +102,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.99.38:854",
+              "endpoint": "188.114.97.149:946",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            178,
-            213,
-            226
+            252,
+            19,
+            238
           ],
-          "secretKey": "kB/Lj8RjEYza7fdeUiq57WmG6t8wEsgQHXCzusM2+24=",
+          "secretKey": "aEyalEso31VDcDBjAJZgfrgIF8qfH2QTheW6hVnpwHI=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
@@ -292,17 +292,17 @@
           "mtu": 1280,
           "peers": [
             {
-              "endpoint": "188.114.98.98:1018",
+              "endpoint": "188.114.97.44:7152",
               "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
               "keepAlive": 25
             }
           ],
           "reserved": [
-            149,
-            181,
-            31
+            10,
+            52,
+            38
           ],
-          "secretKey": "0OD7vQrrVMH1NtSTpdYd2/0S9/z3z4BO7L9JLfBLxEk=",
+          "secretKey": "QI27Q95fHzHSPYYukZpSj/2UOzejymrQ9rayuny2A1w=",
           "wnoise": "quic",
           "wnoisecount": "10-15",
           "wpayloadsize": "5-10",
